@@ -36,3 +36,10 @@
 <br>
 
 </p>
+
+<li>
+<a href="https://instagram.com/mbahcrabs" target="_blank">
+<img src="https://img.shields.io/badge/instagram:mbahcrabs-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+</a>
+</li>
+<br>
