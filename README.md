@@ -37,6 +37,11 @@
 
 </p>
 
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="35"><b> Let's Connect..!</b>
+<br>
+<div align='left' id="contact">
+<ul>
+
 <li>
 <a href="https://instagram.com/mbahcrabs" target="_blank">
 <img src="https://img.shields.io/badge/instagram:mbahcrabs-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
