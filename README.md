@@ -3,7 +3,7 @@
 
 <a href="https://discord.com/channels/@me/723835524720361474"> <img src="https://discord.c99.nl/widget/theme-3/723835524720361474.png">
     
-<img align="center" width="39%" height="10px" src="https://media.discordapp.net/attachments/877859563016159252/879664980218249216/colour_line2.gif">
+<img align="center" width="50%" height="10px" src="https://media.discordapp.net/attachments/877859563016159252/879664980218249216/colour_line2.gif">
 
    
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Skills</b>
